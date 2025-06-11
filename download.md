@@ -12,7 +12,7 @@ description: 下载Stash最新版本，支持iOS、macOS、tvOS平台。获取�
 
 - Stash只能使用非大陆区苹果 Apple Store 下载，推荐使用美区 Apple ID 登录后在美区 Apple Store 下载，自己动手注册即可，无须付费购买账户，详见 ①[2025最新 Apple ID 注册教程，5分钟创建一个属于自己美区Apple ID](/appleidregist.md) ②[苹果美区Apple ID注册教程](/appleid.md)。
 
-- 如果嫌注册购买麻烦，可以购买已经购买Stash的成品苹果账号
+- 如果嫌注册麻烦，可以购买已经购买Stash的成品苹果账号，只需一杯奶茶的钱。
 
 推荐商家：
 

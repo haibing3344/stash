@@ -25,7 +25,7 @@ iOS 界面预览
 
 ### 官网下载
 
-**Stash官网**下载地址：[https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) ，也可使用非大陆区苹果 Apple Store 直接下载，推荐使用美区 Apple ID 登录后在美区 Apple Store 下载，自己动手注册即可，无须付费购买账户，详见 ①[2025最新 Apple ID 注册教程，5分钟创建一个属于自己美区Apple ID](/appleidregist.md) ②[苹果美区Apple ID注册教程](/appleid.md)。
+**Stash官网**下载地址：[https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) ，Stash只能使用非大陆区苹果 Apple Store 下载，推荐使用美区 Apple ID 登录后在美区 Apple Store 下载，自己动手注册即可，无须付费购买账户，详见 ①[2025最新 Apple ID 注册教程，5分钟创建一个属于自己美区Apple ID](/appleidregist.md) ②[苹果美区Apple ID注册教程](/appleid.md)。
 
 ::: warning 注意
 Stash 为付费软件，需使用美区 Apple ID 登录后在美区 App Store 下载，如果嫌注册购买麻烦，可以购买已经购买Stash的成品苹果账号
