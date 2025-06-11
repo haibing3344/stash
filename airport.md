@@ -373,26 +373,27 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">狗狗加速</div>
-  <div class="pricing-price">¥15.80 <span class="pricing-unit">每月</span></div>
-  <a href="https://down.dginv.click/#/register?code=El5yzgZo" target="_blank" class="buy-button">
+  <div class="pricing-title">银河云</div>
+  <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
+  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：160 GB
-- 速度：150 Mbps
+- 流量：50 GB
+- 速度：不限速
 - 设备数：无限制
 
 使用说明
 
-1. ✅3日1G试用满意购买
-2. ✅半年付9.5折，年付9折
-3. ✅集群负载均衡
-4. ✅解锁流媒体及ChatGPT
+1. ✅每月50G流量，全年有效，适用于低使用率用户
+2. ✅全IPLC专线，不限速
+3. ✅原生IP解锁流媒体
+4. ✅解锁 Chatgpt，Tiktok
 5. ✅不限设备数，全平台通用
-6. ✅当月流量用完请买流量重制套餐重置使用流量
+6. ✅高效客服响应
+7. ❌永久流量包不参与任何活动
 
 </div>
 
