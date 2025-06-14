@@ -422,29 +422,26 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 </div>
 
 
-
-
 <div class="pricing-card">
-  <div class="pricing-title">CHCC</div>
-  <div class="pricing-price">¥14.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://chcclink.com/#/register?code=7sWWshuI" target="_blank" class="buy-button">
+  <div class="pricing-title">肥猫云</div>
+  <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
+  <a href="https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：200 GB
+- 流量：60 GB
 - 速度： 不限速
 - 设备数：无限制
 
 使用说明
 
-1. **<span style="color: red;">💛每月200G流量用完请更换其他套餐</span>**
-2. 企业级跨境专线 99% SLA保证
-3. 解锁 Netflix ChatGPT 使用权利
-4. 7x24工单支持 确保您售后无忧
-5. 若套餐时间未到，同套餐续订待当前套餐到期后自动到账
-6. 流量不够用，直接更换大流量套餐，重新计算月结日
+1. 每月60GB流量（60G流量适合普通网页浏览,偶尔刷刷短视频用户使用）
+2. IEPL专线传输，不限速，所有节点x1倍率
+3. Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体全解锁，秒开4K，支持8K
+4. 支持ChatGPT、Claude等AI tools
+5. 高性能Trojan协议，不限制设备登录数
 </div>
 
 <div class="pricing-card">
