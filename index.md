@@ -15,7 +15,7 @@ hero:
     src: /assets/logo.png
     alt: Stash Logo
   actions:
-    - theme: brand
+    - theme: alt
       text: 立即下载
       link: /download.md
     - theme: alt
