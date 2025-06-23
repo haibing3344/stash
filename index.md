@@ -79,8 +79,8 @@ Stash日志系统为您提供监控所有网络请求的能力。您的设备通
 ## 友情链接
 
 - [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙性价比机场推荐
+- [一元机场](https://一元.live/) - 提供高速稳定的网络服务
 - [Clash Verge Rev](https://clash-verge-rev.org/) - 跨平台代理客户端
-- [一元机场](https://1yuan.uk/) - 提供高速稳定的网络服务
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端。
 - [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
