@@ -136,7 +136,7 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
   <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
