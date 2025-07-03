@@ -94,7 +94,7 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
   </a>
     
     套餐特点
-- **<span style="color: red;">618年付优惠码：618SALE20，有效期:6月17日--6月27日。</span>**
+
 - 流量：300 GB
 - 速度：500 Mbps
 - 设备数：5
@@ -304,6 +304,58 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title">疾风云</div>
+  <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://homes.tr25.cn/?code=ReCm" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">年费7折优惠-jf2025: 半年9折优惠-JF888</span>**
+- 流量：50 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+
+1. 50GB 使用流量，所有节点x1倍率，晚高峰不限速
+2. 1个 在线客户端
+3. 最高60M速率
+4. 工单客服支持
+5. 支持 Clash、SSR、V2ray节点
+6. 国内中转节点
+7. 解锁流媒体
+8. 可用入门版节点
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">尔湾云</div>
+  <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://erwan6.net/auth/register?code=BoObCd" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">7折年付优惠码，购买时请输入 ss12</span>**
+- 流量：50 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+
+1. 50GB 使用流量，所有节点x1倍率，晚高峰不限速
+2. 1个 在线客户端
+3. 最高50M速率
+4. 工单客服支持
+5. 支持 Clash、SSR、V2ray节点
+6. 国内中转节点
+7. 解锁流媒体
+8. 可用入门版节点
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">扬帆云</div>
   <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
   <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" class="buy-button">
@@ -324,6 +376,34 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 4. 工单客服支持
 5. **<span style="color: red;">👍全球接入节点</span>**
 6. **<span style="color: red;">👍解锁流媒体</span>**
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">三番云</div>
+  <div class="pricing-price">¥15.88 <span class="pricing-unit">每月</span></div>
+  <a href="https://3fan.3f66.net/?code=NuDD6seh" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">👑年费七折优惠码：3fan666</span>**
+- 流量：100 GB
+- 速度：300Mbps
+- 设备数：2
+
+使用说明
+
+1. 🔋 流量：100GB（自动重置）
+2. ⚡ 速度：最高 300Mbps 带宽
+3. 📱 设备数：最多 2 台设备在线
+4. 🌐 多国节点：10个国家高速接入，随心切换
+5. 🌍 全球高速稳定网络 | 流畅无忧
+6. 📽️ 全流媒体解锁：Netflix、Disney+、Hulu等
+7. 🎮 AI & 游戏优化：ChatGPT无障碍，畅玩游戏
+8. 💎 IPLC专线：低延迟，无丢包
+9. ☎️ 专属客服：在线售后，贴心保障
+10. 📌 适合日常上网、高清流媒体播放的用户
+
 </div>
 
 <div class="pricing-card">
@@ -408,7 +488,6 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
     
     套餐特点
 
-- **<span style="color: red;">618 85折优惠码：wuyi85。截止6月30号</span>**
 - 流量：50 GB
 - 速度：不限速
 - 设备数：无限制
@@ -447,6 +526,36 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 3. Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体全解锁，秒开4K，支持8K
 4. 支持ChatGPT、Claude等AI tools
 5. 高性能Trojan协议，不限制设备登录数
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">青云梯</div>
+  <div class="pricing-price">¥96.00 <span class="pricing-unit">每年</span></div>
+  <a href="https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">适用于小流量用户，相当于月付 8 元</span>**
+- 流量：60 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+- 每月60GB流量 ，所有节点x1倍率，晚高峰不限速
+
+- 季付以上购买日起算每30天自动更新流量
+
+- 全IPLC专线，最大提供2.5GBPs速率
+
+- 原生IP解锁各大流媒体
+
+- 解锁 Chatgpt，Tiktok
+
+- 不限制同时使用客户端数量
+- 高效客服响应
+- 节点包括：香港x20、台湾x10、日本x10、新加坡x10、马来西亚、美国x10、韩国x2、越南x1、菲律宾x1、泰国x1、印度x1、德国x1、法国x1、英国x1、阿根廷x2
 </div>
 
 <div class="pricing-card">
@@ -520,33 +629,6 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 5. ✅不限制网络速度
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title">旗舰款套餐-大流量</div>
-  <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=hUuk650e" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：1 T 
-- 速度：1000 Mbps
-- 设备数：无限制
-
-使用说明
-
-1. 🚀 优质机场领先者，畅享极速网络
-2. 🍬 每月送你1T甜甜的流量
-3. 🖥 集群部署，保障稳定与高性能
-4. 📱 支持多设备连接，无需限制
-5. ⚡️ 高达1Gbps的极速体验
-6. 🔓 解锁全球流媒体，畅享无阻
-7. 适合追剧、下载等对流量需求较大的同学使用
-</div>
-
-<div class="pricing-card">
-
-</div>
 </div>
 
 
