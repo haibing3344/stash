@@ -32,7 +32,7 @@ Stash 为付费软件，需使用美区 Apple ID 登录后在美区 App Store �
 
 推荐商家：
 
-- [水果商店](https://applego.win)
+- [水果商店](https://applego.idbb.me)
 :::
 
 ![Stash 使用教程『从入门到精通』](/assets/tutorial/4df19ed4f25ced389fda2227df0a5b5d.png)
