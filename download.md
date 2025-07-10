@@ -16,7 +16,7 @@ description: 下载Stash最新版本，支持iOS、macOS、tvOS平台。获取�
 
 推荐商家：
 
-- [水果商店](https://applego.idbb.me)
+- [水果商店](https://appleshop.wine)
 :::
 
 ### iOS版本

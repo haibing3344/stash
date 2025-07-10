@@ -16,6 +16,18 @@ description: Stash常见问题解答，包括安装、配置、使用等各方�
    - Stash在大部分地区都有上架
    - 如需要可以更换Apple ID地区
 
+   ::: warning 注意
+-   需要使用境外 Apple ID 才能下载。以下是公益共享 Apple ID 网站推荐：
+    
+    -   [https://idshare001.me/applego.html](https://idshare001.me/applego.html)
+    -   [https://id001.me/applego.html](https://id001.me/applego.html)
+-   如共享账号无法使用，建议自行购买外区带有 Loon 的账号，**以后可以永久使用**。
+
+    推荐商家：
+    
+    -   [水果商店](https://appleshop.win)
+:::
+
 2. **搜索问题**
    - 尝试搜索"Stash Networks"
    - 使用完整的应用名称搜索
