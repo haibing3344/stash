@@ -50,7 +50,7 @@ Stash 为付费软件，需使用美区 Apple ID 登录后在美区 App Store �
 
 直接使用外区 Apple ID 登录 App Store 后，使用搜索功能找到软件直接购买下载安装即可，如下图所示。
 
-![Stash App Store 购买下载安装界面](/assets/tutorial/457aaf8ecc6c60f1b89cd650b7974c8a.jpeg)
+![Stash App Store 购买下载安装界面](/assets/tutorial/457aaf8ecc6c60f1b89cd650b7974c8a.jpeg "Stash App Store 购买下载安装界面")
 
 App Store 购买下载安装界面
 
@@ -82,17 +82,17 @@ App Store 购买下载安装界面
 
 点击软件最底部`设置`选项卡进去设置页面，点击`配置文件`，如下图所示：
 
-![Stash 配置文件](/assets/tutorial/a6484699c0564e5aedb8cb106d2342ab.jpeg)
+![Stash 配置文件](/assets/tutorial/a6484699c0564e5aedb8cb106d2342ab.jpeg "Stash 配置文件")
 
 配置文件
 
 在配置列表页面，点击`从URL下载`，如下图所示：
 
-![Stash 使用教程『从入门到精通』](/assets/tutorial/f6ab249ad247102e8e8803837df360af.png)
+![Stash 使用教程『从入门到精通』](/assets/tutorial/f6ab249ad247102e8e8803837df360af.png "Stash 使用教程『从入门到精通』")
 
 接着直接在弹出的窗口中输入**节点订阅链接**即可，如下图所示：
 
-![Stash 从URL下载输入配置文件地址](/assets/tutorial/8dde891fada9020b9ee14ecee7b02d2a.jpeg)
+![Stash 从URL下载输入配置文件地址](/assets/tutorial/8dde891fada9020b9ee14ecee7b02d2a.jpeg "Stash 从URL下载输入配置文件地址")
 
 从URL下载输入配置文件地址
 
@@ -100,7 +100,7 @@ App Store 购买下载安装界面
 
 软件支持扫描二维码导入节点，在配置列表页面，点击`扫描 QRcode 下载`，如下图所示：
 
-![Stash 导入配置列表扫描QRcode下载](/assets/tutorial/23f67c53de11eeff6044c99acef5ec73.jpeg)
+![Stash 导入配置列表扫描QRcode下载](/assets/tutorial/23f67c53de11eeff6044c99acef5ec73.jpeg "Stash 导入配置列表扫描QRcode下载")
 
 导入配置列表扫描QRcode下载
 
@@ -108,13 +108,13 @@ App Store 购买下载安装界面
 
 软件支持从配置文件导入节点，在配置列表页面，点击`从文件中导入`，如下图所示：
 
-![Stash 使用教程『从入门到精通』](/assets/tutorial/85bf27a9897531d6e61fd0a9d5048826.png)
+![Stash 使用教程『从入门到精通』](/assets/tutorial/85bf27a9897531d6e61fd0a9d5048826.png "Stash 使用教程『从入门到精通』")
 
 ### 成功导入配置
 
 在通过以上三种方法成功导入配置之后，可以在配置列表页面看到添加的配置文件，点击选择该配置文件，如下图所示：
 
-![Stash 成功导入配置文件](/assets/tutorial/15805e2f3d1949c297f545814094c6d6.jpeg)
+![Stash 成功导入配置文件](/assets/tutorial/15805e2f3d1949c297f545814094c6d6.jpeg "Stash 成功导入配置文件")
 
 成功导入配置文件
 
@@ -124,7 +124,7 @@ App Store 购买下载安装界面
 
 在成功添加导入配置文件并选择配置文件之后，点击软件主最底部`首页`选项卡，可以看到最左上角已启用刚刚添加的配置文件，直接点击右边的`启动`按钮即可启用代理，如下图所示：
 
-![Stash 启动代理](/assets/tutorial/32c09f5cc5b3e91b98be81dab722ce8b.jpeg)
+![Stash 启动代理](/assets/tutorial/32c09f5cc5b3e91b98be81dab722ce8b.jpeg "Stash 启动代理")
 
 启动代理
 
@@ -132,7 +132,7 @@ App Store 购买下载安装界面
 
 在软件`首页`选项卡，可以在最顶部看到出站模式，默认为规则模式，在成功启动并连接代理服务器后，直接点击`出站模式`就可以进行切换，如下图所示：
 
-![Stash 切换出站模式](/assets/tutorial/efa7f19f9dd1864a637aeedfee24e1c1.jpeg)
+![Stash 切换出站模式](/assets/tutorial/efa7f19f9dd1864a637aeedfee24e1c1.jpeg "Stash 切换出站模式")
 
 切换出站模式
 
@@ -148,7 +148,7 @@ App Store 购买下载安装界面
 
 点击软件最底部菜单`策略组`选项卡，可以看到有很多节点，点击任意节点即可切换代理节点服务器，如下图所示：
 
-![Stash 切换代理](/assets/tutorial/389ee35916d7b7b4883fc33ed1fa5bac.jpeg)
+![Stash 切换代理](/assets/tutorial/389ee35916d7b7b4883fc33ed1fa5bac.jpeg "Stash 切换代理")
 
 切换代理
 
@@ -161,15 +161,16 @@ App Store 购买下载安装界面
 更多有关软件的问题可查看 [官网文档](https://stash.wiki)。
 
 ::: tip 🎉 节点推荐
-
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)<br>
 - 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
 - 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
-- [小旋风：IPLC专线高速稳定！8元/月起](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)<br>
-- [大哥云：年付低至7元/月，4年稳定老牌机场](https://ca01.dgy01.cc/#/register?code=JSSN0WQ9)<br>
-- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
-- [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)
-- [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://love.521pokemon.com/register?code=56ERkkxp)<br>
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
 :::
 
 ::: warning  💬 交流群

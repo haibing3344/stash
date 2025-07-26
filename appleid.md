@@ -10,13 +10,13 @@
 
 打开 Apple ID 页面，地址：[https://appleid.apple.com/](https://appleid.apple.com/)，点击右上角的 `Create Your Apple ID` 创建 Apple ID。
 
-![美区 Apple ID 登录页面](/assets/appleid/e53405b5bb1b3196c39fde2e1f45248e-083fb5.jpg)Apple ID 登录页面
+![美区 Apple ID 登录页面](/assets/appleid/e53405b5bb1b3196c39fde2e1f45248e-083fb5.jpg "美区 Apple ID 登录页面")
 
 ### 第二步：创建 Apple ID 账号
 
 输入基本信息，姓名、国家、生日、邮箱及密码，如电话是大陆手机号则之前的国家选择 China mainland，点击 Continue 注册。
 
-![美区 Apple ID 注册页面](/assets/appleid/bb4b2f3d1be5abd96401206b36104440-a47631.jpg)
+![美区 Apple ID 注册页面](/assets/appleid/bb4b2f3d1be5abd96401206b36104440-a47631.jpg "美区 Apple ID 注册页面")
 
 Apple ID 注册页面
 
@@ -24,7 +24,7 @@ Apple ID 注册页面
 
 打开 Apple ID 页面，地址：[https://appleid.a](https://appleid.apple.com/)[pple.com/](https://appleid.apple.com/)，登录申请的 Apple ID 账号及密码（如果是刚注册账号可忽略登录步骤）。
 
-![美区 Apple ID 个人资料页面](/assets/appleid/c27b70d7a20db98518e9cf8e2ffda973-f193c0.jpg)
+![美区 Apple ID 个人资料页面](/assets/appleid/c27b70d7a20db98518e9cf8e2ffda973-f193c0.jpg "美区 Apple ID 个人资料页面")
 
 Apple ID 个人资料页面
 
@@ -37,15 +37,16 @@ Apple ID 个人资料页面
 至此美国 App Store Apple ID 注册申请成功，获得了一个免费的美区 Apple ID，进入 App Store，搜索需要下载的 APP 进行下载安装，如科学上网客户端 Shadowsocks、Quantumult 等。
 
 ::: tip 🎉 节点推荐
-
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)<br>
 - 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
 - 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
-- [小旋风：IPLC专线高速稳定！8元/月起](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)<br>
-- [大哥云：年付低至7元/月，4年稳定老牌机场](https://ca01.dgy01.cc/#/register?code=JSSN0WQ9)<br>
-- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
-- [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)
-- [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://love.521pokemon.com/register?code=56ERkkxp)<br>
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
 :::
 
 ::: warning  💬 交流群
