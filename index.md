@@ -91,6 +91,7 @@ Stash日志系统为您提供监控所有网络请求的能力。您的设备通
 - [Karing](https://karing.uk) - 新一代网络代理工具,免费
 - [Stash](https://stashapp.uk) - 简单且强大的网络工具
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
+- [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
 
 <style>
 :root {
