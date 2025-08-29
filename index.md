@@ -88,7 +88,7 @@ Stash日志系统为您提供监控所有网络请求的能力。您的设备通
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端
 - [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
 - [Shadowrocket(小火箭)](https://xiaohuojian.uk) - iOS 专业网络工具
-- [Karing](https://karing.uk) - 新一代网络代理工具,免费
+- [Karing](https://karings.org) - 新一代网络代理工具,免费
 - [Stash](https://stashapp.uk) - 简单且强大的网络工具
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
 - [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
