@@ -655,21 +655,43 @@ description: 精选稳定可靠的机场代理服务，包含详细评测、配�
 4. ✅不限制到期时间
 5. ✅不限制网络速度
 </div>
+ <div class="pricing-card">
+  <div class="pricing-title">良心云</div>
+  <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
+  <a href="https://a.suola.link/liangxinyun" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
 
+- 流量：100 G
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. **<span style="color: red;">👌 支持新疆，河南，福建，用户使用，毫无影响</span>**
+2. 🌍 全球覆盖，所有节点1.0倍率，无高倍线路
+3. 📱 支持同时在线20台设备使用
+4. ⚡️ 高达3Gbps带宽，晚高峰观看8K 60fps不卡顿
+5. 🎬 流媒体全面解锁
+6. 🫷 无限制使用行为，无存储节点日志，使用更安心
+7. 🔒 军工级TLS1.3加密，保护你的隐私安全
+</div>
 </div>
 
 
 ::: tip 🎉 节点推荐
-- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)<br>
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
-- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://a.suola.link/cyberguard)<br>
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://a.suola.link/youxinyun)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://a.suola.link/erwan)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://a.suola.link/mojie)<br>
 - 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)<br>
-- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)<br>
-- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
-- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)<br>
-- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://a.suola.link/nanocloud)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://a.suola.link/feimao)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://a.suola.link/jifeng)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://a.suola.link/shy)
 :::
 
 ::: warning  💬 交流群
